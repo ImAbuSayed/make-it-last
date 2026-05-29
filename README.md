@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/make-it-last/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Make It Last](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/make-it-last/) |
+| **Get License** | [Secure Licensing Rights for Make It Last](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/make-it-last/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `5059faa008f807762e06961709145de186400fb4cdd09c84fbf6cdfe33f7af4f` |
 | **Timestamp** | May 29, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
